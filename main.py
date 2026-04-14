@@ -2,7 +2,7 @@ import os
 import yt_dlp
 
 # === CONFIGURATION ===
-playlist_url = 'https://www.youtube.com/playlist?list=PLPPFi2KpH0UTY1cCZAeMrBwNAa68Oeeii'
+playlist_url = 'https://www.youtube.com/playlist?list=PLPPFi2KpH0UTQ6Cr7RggYpizatnuAGgW6'
 output_folder = 'downloads'
 archive_file = 'downloaded.txt'
 
